@@ -1,0 +1,69 @@
+
+hpeesofsim (*) 510.shp Jul 22 2019, MINT version 5
+    (64-bit windows built: Mon Jul 22, 2019 22:53:59 +0000)
+
+Warning detected by hpeesofsim during netlist flattening.
+    Resistor `A1.RSSP' is shorted.
+
+
+CT Sweep1[1] <lownoiseamp_lib:dc:schematic>   VGS=(-1->0)
+
+DC Sweep1[1].DC1[1/11] <lownoiseamp_lib:dc:schematic>  VGS=-1  VDS=(0->5)
+.Pt DC convergence is used.
+
+.
+..................................................
+
+DC Sweep1[1].DC1[2/11] <lownoiseamp_lib:dc:schematic>  VGS=-900e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[3/11] <lownoiseamp_lib:dc:schematic>  VGS=-800e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[4/11] <lownoiseamp_lib:dc:schematic>  VGS=-700e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[5/11] <lownoiseamp_lib:dc:schematic>  VGS=-600e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[6/11] <lownoiseamp_lib:dc:schematic>  VGS=-500e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[7/11] <lownoiseamp_lib:dc:schematic>  VGS=-400e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[8/11] <lownoiseamp_lib:dc:schematic>  VGS=-300e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[9/11] <lownoiseamp_lib:dc:schematic>  VGS=-200e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[10/11] <lownoiseamp_lib:dc:schematic>  VGS=-100e-03  VDS=(0->5)
+.
+.
+..................................................
+
+DC Sweep1[1].DC1[11/11] <lownoiseamp_lib:dc:schematic>  VGS=0  VDS=(0->5)
+.
+.
+..................................................
+
+Resource usage:
+  Total stopwatch time     =     3.39 seconds.
+

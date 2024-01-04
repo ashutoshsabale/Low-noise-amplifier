@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE lownoiseamp_lib lownoiseamp_lib
+ASSIGN lownoiseamp_lib libMode shared
+INCLUDE $HOME/lownoiseamp_wrk/RF_Transistors_vendor_kit/lib.defs

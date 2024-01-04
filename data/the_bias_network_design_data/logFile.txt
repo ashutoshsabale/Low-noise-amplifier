@@ -1,0 +1,14 @@
+
+hpeesofsim (*) 510.shp Jul 22 2019, MINT version 5
+    (64-bit windows built: Mon Jul 22, 2019 22:53:59 +0000)
+
+
+SP SP1[1] <lownoiseamp_lib:the bias network design:schematic>   freq=(500 MHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(5.500000) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `Tee1'
+
+
+
+Resource usage:
+  Total stopwatch time     =     2.39 seconds.
+

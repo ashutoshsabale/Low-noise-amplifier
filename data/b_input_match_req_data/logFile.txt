@@ -1,0 +1,27 @@
+
+hpeesofsim (*) 510.shp Jul 22 2019, MINT version 5
+    (64-bit windows built: Mon Jul 22, 2019 22:53:59 +0000)
+
+Warning detected by hpeesofsim during netlist flattening.
+    Resistor `A1.RSSP' is shorted.
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 3
+
+Pt DC convergence is used.
+
+SP SP2[1] <lownoiseamp_lib:b_input match req:schematic>   freq=(2.2 GHz->2.6 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP2'.
+    UserValue(5.500000) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `X1.Tee1'
+
+Warning detected by hpeesofsim during SP analysis 'SP2'.
+    UserValue(5.500000) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `X2.Tee1'
+
+Warning detected by hpeesofsim during SP analysis 'SP2'.
+    UserValue(5.500000) > MaxRecommendValue(5.000000) for 'Wlargest/Wsmallest' in `Tee1'
+
+
+
+Resource usage:
+  Total stopwatch time     =    27.30 seconds.
+
